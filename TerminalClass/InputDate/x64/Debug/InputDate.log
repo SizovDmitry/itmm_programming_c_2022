@@ -1,0 +1,15 @@
+﻿  indata.c
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(12,9): warning C4477: "scanf_s": в строке форматирования "%c" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "char *"
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(12,9): message : этот аргумент используется в качестве размера буфера
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(12,9): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(12,9): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 3
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(12,9): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%c"
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(12,9): message : этот аргумент используется в качестве размера буфера
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(14,1): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(18,9): warning C4477: "scanf_s": в строке форматирования "%c" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "char *"
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(18,9): message : этот аргумент используется в качестве размера буфера
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(18,9): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(18,9): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 3
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(18,9): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%c"
+C:\Users\itmm-2213-a\source\repos\TerminalClass\InputDate\indata.c(18,9): message : этот аргумент используется в качестве размера буфера
+  InputDate.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClass\x64\Debug\InputDate.exe

@@ -1,0 +1,4 @@
+﻿  square.c
+C:\Users\itmm-2213-a\source\repos\TerminalClass\TriangleEasy\square.c(16,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\itmm-2213-a\source\repos\TerminalClass\TriangleEasy\square.c(20,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  TriangleEasy.vcxproj -> C:\Users\itmm-2213-a\source\repos\TerminalClass\x64\Debug\TriangleEasy.exe
